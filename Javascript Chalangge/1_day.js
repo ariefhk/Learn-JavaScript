@@ -77,5 +77,3 @@ numberOfQuiz(10);
 let myAge = 20,
   yourAge = 25;
 console.log(myAge + yourAge);
-
-
